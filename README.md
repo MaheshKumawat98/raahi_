@@ -239,7 +239,7 @@ Transparency matters. Here's exactly where each data point comes from:
 | Map | Mapbox GL JS |
 | Routing engine | OSRM (public endpoint) |
 | Street lamp data | OpenStreetMap via Overpass API |
-| Weather | OpenWeather API |
+| Weather| OpenWeather API |
 | Geocoding | Mapbox Geocoding v5 + Nominatim fallback |
 | Accident data | data.gov.in (NCRB 2022) |
 | SMS / SOS | Twilio |
