@@ -92,7 +92,7 @@ Street lighting is the single strongest predictor of perceived and actual safety
 
 > Short routes (< 12 coordinates) use a bounding box Overpass query instead of a polygon for speed.
 
-**Deduction tag:** `poor_street_lighting`
+**Deduction tag:** `poor_street_lighting` ....
 
 ---
 
